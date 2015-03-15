@@ -34,7 +34,7 @@
 	
  
 	<welcome-file-list>
-		<welcome-file>comingsoon.html</welcome-file>
+		<welcome-file>pages/comingsoon.jsp</welcome-file>
 	</welcome-file-list>
 </web-app>
 

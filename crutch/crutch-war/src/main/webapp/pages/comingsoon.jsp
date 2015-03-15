@@ -35,16 +35,18 @@
   <body>
     
 	<div id="logo" style="">
-		<img src="img/logo2.jpg" style="width: 60%">
+		<img src="img/logo3.png" style="width: 55%">
 	<div class="wrapper">
-	<div class="comingsoon">
-		<h2>${message}</h2>
+	<br>
       <div class="cell">
+      <div class="comingsoon">
+		<img src="img/comingsoontext.png" style="width: 35%">
+	</div>
         <div id="holder">
           <div class="clock"></div>
         </div>
       </div>
-      </div>
+      
 	  </div>
     </div>
   </body>
