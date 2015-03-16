@@ -34,13 +34,14 @@
   </head>
   <body>
     
-	<div id="logo" style="">
+	<div id="logo">
 		<img src="img/logo3.png" style="width: 55%">
+		<br>
 	<div class="wrapper">
 	<br>
       <div class="cell">
       <div class="comingsoon">
-		<img src="img/comingsoontext.png" style="width: 35%">
+		<img src="img/comingsoontext.png" style="width: 65%">
 	</div>
         <div id="holder">
           <div class="clock"></div>
