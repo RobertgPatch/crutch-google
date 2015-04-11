@@ -27,15 +27,11 @@
                 </listener-class>
 	</listener>
 	
-	
-	
-	
-	
-	
  
 	<welcome-file-list>
 		<welcome-file>pages/comingsoon.jsp</welcome-file>
 	</welcome-file-list>
+	
 </web-app>
 
 
